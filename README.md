@@ -1,3 +1,49 @@
+
+As a development team, you have been asked by a local Nashville museum to create an app for them that engages patrons.  The app's concept is that museum staff can add attractions, exhibits, and events while patrons can save/like, and comment on the content.  
+
+There are several museums to choose from in Nashville, but no two groups can do the same museum.  Reserve your spot in the Slack thread for the museum you want.  Some possibilities are below, but feel free to ask about ones not on this list. 
+
+- Zoo
+- Adventure Science Center
+- TN State Museum
+- Cheekwood
+- Ryman
+- Country Music Hall of Fame
+- The Frist
+- National Museum of African American Music
+- Country Music Hall of Fame
+
+### Requirements
+
+- The app should have a least 2 users types, staff and patrons.
+- Staff should be able to view, edit, post and delete attractions, events, and exhibits.
+- Patrons should be able to view attractions, events, and exhibits.
+- Patrons should be able to like or save an attraction, event, or exhibit.  When saved, this should be specific to the patron.
+- Patrons should be able to view a list of their saved/liked content.
+- Patrons should be able to unsave/unlike content
+- Patrons should be able to comment on an attraction, event, or exhibit.  Comments should be public.
+- Patrons should be able to view comments on an attraction, event, or exhibit
+
+### Bonuses
+
+- A patron can like another person's comment
+- A patron can edit and delete their own comments
+- Staff can block or delete comments
+- Patrons have the ability to ask a question and staff can respond.
+- Filtering of content by
+    - attraction, event, or exhibit
+    - date added (or happening)
+    - most comments
+    - most likes
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
